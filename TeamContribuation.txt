@@ -1,0 +1,9 @@
+Team Contributions
+
+Name: Amr Abdel Halim Mohamed Bulbul El-Afrah El-Naggar
+Student ID: 2023147
+Contribution:
+- Selected the problem (Maze Pathfinding).
+- Implemented BFS and DFS in C++.
+- Collected performance metrics (nodes expanded, path length, time).
+- Prepared README and project report.
